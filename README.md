@@ -130,3 +130,4 @@ $ zbarimg qr_code.png > qrcode.txt && qrencode -r qrcode.txt -o - -t UTF8 # 解�
 ## 感谢
 ##### 非常感谢原作者 https://github.com/zhou-xiaojun/jd_mask 提供的代码
 ##### 也非常感谢 https://github.com/wlwwu/jd_maotai 进行的优化
+# jd_mt
